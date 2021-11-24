@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sat May 22 22:49:41 2021
+# Process ID: 9432
+# Current directory: d:/OneDrive/VivadoProj/EE332/flappy_bird
+# Command line: wbtcv.exe -mode batch -source D:/OneDrive/VivadoProj/EE332/flappy_bird/flappy_bird.hw/webtalk/labtool_webtalk.tcl -notrace
+# Log file: d:/OneDrive/VivadoProj/EE332/flappy_bird/webtalk.log
+# Journal file: d:/OneDrive/VivadoProj/EE332/flappy_bird\webtalk.jou
+#-----------------------------------------------------------
+source D:/OneDrive/VivadoProj/EE332/flappy_bird/flappy_bird.hw/webtalk/labtool_webtalk.tcl -notrace
